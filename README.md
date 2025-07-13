@@ -11,9 +11,8 @@ ScoreWise
 Outside of my career
 - I enjoy swimming (NLS certified)
 - Love love love math, most definitely one of my favourite subjects.
-- Top 50k Unreal <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_cover.jpg/64px-Fortnite_cover.jpg" width="20" />
-- Asc 3<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Valorant_logo_-_pink_color_version.svg/1200px-Valorant_logo_-_pink_color_version.svg.png" width="20" />
-
+- <img src="https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" width="22" style="vertical-align: middle; margin-right: 6px;" /> **Top 50k in Fortnite**
+- <img src="https://www.citypng.com/public/uploads/preview/hd-valorant-official-symbol-sign-logo-png-701751694788082d3btqfskcj.png?v=2025061012" width="20" style="vertical-align: middle; margin-right: 6px;" /> **ASC 3 in Valorant**
 
 
 &nbsp;<div align="center">
