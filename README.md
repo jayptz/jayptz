@@ -8,5 +8,6 @@ Currently a Computer Science Student at WLU.
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/pateljy06)
+ [![Spotify](https://spotify-playing-cz99.vercel.app/api/spotify)](https://open.spotify.com/user/pateljy06)
+
 </div>
