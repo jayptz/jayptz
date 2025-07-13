@@ -4,7 +4,7 @@ ___
 ### About me
 I'm Jay, 
 
-I'm a Computer Science Student at `WLU`<img src="" width="22" style="vertical-align: middle; margin-right: 6px;" />, passionate about coding, problem-solving, and following trends like AI/ML, but my favourite is Quantum Computing (especially Algorithms)
+I'm a Computer Science Student at `WLU`<img src="laurier.jpg" width="22" style="vertical-align: middle; margin-right: 6px;" />, passionate about coding, problem-solving, and following trends like AI/ML, but my favourite is Quantum Computing (especially Algorithms)
 
 Currently Building...
 - [ResDex](https://www.resdex.ca/) 
