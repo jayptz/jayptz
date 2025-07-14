@@ -1,8 +1,8 @@
 # Hey there!
 ___
-I'm Jay, 
+## I'm Jay, 
 
-I'm a Computer Science Student at `WLU`<img src="laurier.jpg" width="22" style="vertical-align: middle; margin-right: 20px;" />, passionate about coding, problem-solving, and following trends like AI/ML, but my favourite trend currently is Quantum Computing (especially Algorithms)
+A Computer Science Student at `WLU`<img src="laurier.jpg" width="22" style="vertical-align: middle; margin-right: 20px;" />, passionate about coding, problem-solving, and following trends like AI/ML, but my favourite trend currently is Quantum Computing (especially Algorithms)
 
 Currently Building...
 - [ResDex](https://www.resdex.ca/) 
