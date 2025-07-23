@@ -7,7 +7,7 @@ A Computer Science Student at `WLU`<img src="laurier.jpg" width="22" style="vert
 Currently Building...
 - [ResDex](https://www.resdex.ca/) 
 - ScoreWise
-
+- GroundLink
 ___
 
 ### Languages
