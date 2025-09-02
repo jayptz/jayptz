@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jayptz&color=gray)
+
 # Hey there!
 ___
 ## I'm jay, 
@@ -55,3 +57,4 @@ ___
  [![Spotify](https://spotify-playing-cz99.vercel.app/api/spotify)](https://open.spotify.com/user/pateljy06)
 
 </div>
+
