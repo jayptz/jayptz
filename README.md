@@ -11,7 +11,7 @@ A Computer Science Student at `WLU`<img src="laurier.jpg" width="22" style="vert
 
 Currently Building...
 - [ResDex](https://www.resdex.ca/) 
-- GroundLink (Aug 2025 - Sept 2025)
+- [GroundLink](https://github.com/jayptz/groundlink) (Aug 2025 - Sept 2025)
 - [OribtShare](https://orbitshare.vercel.app/) (Aug 2025 - Oct 2025)
 - Bonsai (Nov 2025 - Dec 2025)
 ___
