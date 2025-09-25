@@ -13,7 +13,7 @@ Currently Building...
 - [ResDex](https://www.resdex.ca/) 
 - GroundLink (Aug 2025 - Sept 2025)
 - [OribtShare](https://orbitshare.vercel.app/) (Aug 2025 - Oct 2025)
-- Bonsai (Oct 2025 - Dec 2025)
+- Bonsai (Nov 2025 - Dec 2025)
 ___
 
 ### Languages
