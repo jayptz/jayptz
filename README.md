@@ -10,9 +10,10 @@ A Computer Science student at `WLU`<img src="laurier.jpg" width="22" style="vert
 
 Currently Building...
 - [ResDex](https://www.resdex.ca/) (Aug 2024 - Present)
-- [GroundLink](https://github.com/jayptz/groundlink) (Aug 2025 - Sept 2025)
 - [OribtShare](https://orbitshare.vercel.app/) (Aug 2025 - Oct 2025)
-- Bonsai (Nov 2025 - Dec 2025)
+- [Bonsai](https://github.com/jayptz/bonsai)  (Nov 2025 - Dec 2025)
+- [Fleet](https://github.com/jayptz/fleet) (Nov 2025 - Dec 2025
+
 ___
 
 ### Languages
